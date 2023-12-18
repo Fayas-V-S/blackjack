@@ -1,2 +1,2 @@
 # blackjack
-A card game
+Card game
